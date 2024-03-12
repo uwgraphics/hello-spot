@@ -13,5 +13,5 @@ In the wiki, you can find information on
 1. GitHub: https://github.com/heuristicus/spot_ros
 2. Documentation: https://heuristicus.github.io/spot_ros/html/index.html
 
-### ROS 2 Wrapper for Spot SDKz
+### ROS 2 Wrapper for Spot SDK
 1. GitHub: https://github.com/bdaiinstitute/spot_ros2
